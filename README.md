@@ -12,10 +12,9 @@ published technical articles for magazines such as SysAdmin Magazine and
 [Linux Journal][4]. He's also a top contributor on [Stack Overflow][5],
 and a community moderator on [Project Management Stack Exchange][6].
 
-## Social Media
+## Follow Todd on Social Media
 
-- [![Twitter][7]][9]
-- [![LinkedIn][8]][10]
+[![Twitter][7]][9] [![LinkedIn][8]][10]
 
 
 [1]: http://moderncloudops.com/
