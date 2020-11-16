@@ -13,8 +13,10 @@ published technical articles for magazines such as SysAdmin Magazine and
 and a community moderator on [Project Management Stack Exchange][6].
 
 ## Social Media
+
 - [![Twitter][7]][9]
 - [![LinkedIn][8]][10]
+
 
 [1]: http://moderncloudops.com/
 [2]: https://leanpub.com/agilecio/
