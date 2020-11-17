@@ -7,9 +7,9 @@ IT automation and cyber security in the e-commerce, hospitality, and
 financial services sectors.
 
 Todd is intensely passionate about technology and process. He's
-published several books about [Scrum][3] and [agile leadership][2], plus
-numerous technical articles for magazines such as SysAdmin Magazine and
-[Linux Journal][4]. He's also a top contributor on [Stack Overflow][5]
+published several books about [Scrum][3] and [agile leadership][2], and
+his technical articles have been featured in *SysAdmin Magazine* and
+*[Linux Journal][4]*. He's also a top contributor on [Stack Overflow][5]
 and a community moderator on [Project Management Stack Exchange][6].
 
 ## Follow Todd on Social Media
