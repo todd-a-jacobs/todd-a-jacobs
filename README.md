@@ -1,10 +1,10 @@
 # Todd A. Jacobs
 
-Todd is the Chief Technology Officer of [Modern CloudOps℠][1], a
-division of [CodeGnome Consulting][11]. He specializes in CloudOps,
-DevOps, and agile transformations. Todd is also a recognized expert in
-IT automation and cyber security in the e-commerce, hospitality, and
-financial services sectors.
+Todd is the Chief Technology Officer and resident agile guru at [Modern
+CloudOps℠][1], a division of [CodeGnome Consulting][11]. He specializes
+in CloudOps, DevOps, and agile transformations. Todd is also a
+recognized expert in IT automation and cyber security in the e-commerce,
+hospitality, and financial services sectors.
 
 Todd is intensely passionate about technology and process. He's
 published several books about [Scrum][3] and [agile leadership][2], and
