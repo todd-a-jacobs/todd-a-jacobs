@@ -1,6 +1,6 @@
 # Todd A. Jacobs
 
-Todd is the Chief Technology Officer and resident agile guru at [Modern
+Todd is the Chief Information Technology Officer (CITO) and resident agile guru at [Modern
 CloudOps℠][1], a division of [CodeGnome Consulting][11]. He specializes
 in CloudOps, DevOps, and agile transformations. Todd is also a
 recognized expert in IT automation and cyber security in the e-commerce,
