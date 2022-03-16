@@ -17,7 +17,7 @@ and a community moderator on [Project Management Stack Exchange][6].
 [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
 
 
-[1]: http://moderncloudops.com/
+[1]: https://www.moderndevops.com/
 [2]: https://leanpub.com/agilecio/
 [3]: https://leanpub.com/scrum-first-aid/
 [4]: https://www.linuxjournal.com/
@@ -27,4 +27,4 @@ and a community moderator on [Project Management Stack Exchange][6].
 [8]: images/linkedin.png
 [9]: https://twitter.com/Todd_A_Jacobs
 [10]: https://www.linkedin.com/in/todd-a-jacobs/
-[11]: http://www.codegnome.com/
+[11]: https://www.moderndevops.com/
