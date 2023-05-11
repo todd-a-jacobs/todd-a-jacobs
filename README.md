@@ -1,29 +1,21 @@
 # Todd A. Jacobs
 
-Todd is the Chief Information Technology Officer (CITO) and resident agile guru at [Modern
-CloudOps℠][1], a division of [CodeGnome Consulting][11]. He specializes
-in CloudOps, DevOps, and agile transformations. Todd is also a
-recognized expert in IT automation and cyber security in the e-commerce,
-hospitality, and financial services sectors.
+Todd is the Chief Information Technology Officer (CITO) at [CodeGnome Consulting][1], a firm that leads the IT audit remediation sector. He provides strategic leadership for the company's internal initiatives and external client engagements focused on cybersecurity, DevSecOps, IT audit remediation, agile adoption, and fraction CISO services.
 
-Todd is intensely passionate about technology and process. He's
-published several books about [Scrum][3] and [agile leadership][2], and
-his technical articles have been featured in *SysAdmin Magazine* and
-*[Linux Journal][4]*. He's also a top contributor on [Stack Overflow][5]
-and a community moderator on [Project Management Stack Exchange][6].
+Todd is also a founding member of the Theia Institute, a think tank focused on cybersecurity and modern business transformation in the age of AI. In addition, he teaches AI integration and programming at the Forest Academy.
+
+Todd is intensely passionate about technology and process. He's published several books about [Scrum][3] and [agile leadership][2], and his technical articles have been featured in *SysAdmin Magazine* and *[Linux Journal][4]*. He's also a top contributor on [Stack Overflow][5] and a community moderator on [Project Management Stack Exchange][6].
 
 ## Follow Todd on Social Media
-[![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
+<img src="https://joinmastodon.org/logos/logo-purple.svg" style="height: 3em;" alt="Mastodon purple logo"> &nbsp; &nbsp; [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
+
+### Mastodon Servers
+- <a href="https://ruby.social/@todd_a_jacobs" style="margin-top: -2em;" rel="me">@todd_a_jacobs on ruby.social</a>
+- <a href="https://fosstodon.org/@todd_a_jacobs" rel="me">@todd_a_jacobs on fosstodon.org</a>
+- <a href="https://mastodon.social/@todd_a_jacobs" rel="me">@todd_a_jacobs on mastodon.social</a>
 
 
-### <img src="https://joinmastodon.org/logos/wordmark-white-text.svg" style="height: 2em;" alt="Mastodon Logo with White Text">
-
-- <a href="https://ruby.social/@todd_a_jacobs" rel="me">ruby.social</a>
-- <a href="https://fosstodon.org/@todd_a_jacobs" rel="me">fosstodon.org</a>
-- <a href="https://mastodon.social/@todd_a_jacobs" rel="me">mastodon.social</a>
-
-
-[1]: https://www.moderndevops.com/
+[1]: https://www.codegnome.com/
 [2]: https://leanpub.com/agilecio/
 [3]: https://leanpub.com/scrum-first-aid/
 [4]: https://www.linuxjournal.com/
