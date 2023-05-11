@@ -17,7 +17,7 @@ and a community moderator on [Project Management Stack Exchange][6].
 [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
 
 ### Mastodon
-![Mastodon Logo](https://joinmastodon.org/logos/wordmark-black-text.svg)
+![Mastodon Logo](https://joinmastodon.org/logos/wordmark-white-text.svg)
 - <a rel="me" href="https://ruby.social/@todd_a_jacobs">@todd_a_jacobs@ruby.social</a>
 - <a rel="me" href="https://fosstodon.org/@todd_a_jacobs">@todd_a_jacobs@fosstodon.org</a>
 - <a rel="me" href="https://mastodon.social/@todd_a_jacobs">@todd_a_jacobs@mastodon.social</a>
