@@ -13,13 +13,14 @@ his technical articles have been featured in *SysAdmin Magazine* and
 and a community moderator on [Project Management Stack Exchange][6].
 
 ## Follow Todd on Social Media
-### Primary Social Networks
 [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
 
-### ![Mastodon Logo, 50%](https://github.com/todd-a-jacobs/todd-a-jacobs/assets/385462/f1cab7c0-0d45-4f7d-9155-b21a68ccbb64)
-- <a rel="me" href="https://ruby.social/@todd_a_jacobs">@todd_a_jacobs@ruby.social</a>
-- <a rel="me" href="https://fosstodon.org/@todd_a_jacobs">@todd_a_jacobs@fosstodon.org</a>
-- <a rel="me" href="https://mastodon.social/@todd_a_jacobs">@todd_a_jacobs@mastodon.social</a>
+
+### <img src="https://joinmastodon.org/logos/wordmark-white-text.svg" style="height: 2em;" alt="Mastodon Logo with White Text">
+
+- <a href="https://ruby.social/@todd_a_jacobs" rel="me">ruby.social</a>
+- <a href="https://fosstodon.org/@todd_a_jacobs" rel="me">fosstodon.org</a>
+- <a href="https://mastodon.social/@todd_a_jacobs" rel="me">mastodon.social</a>
 
 
 [1]: https://www.moderndevops.com/
