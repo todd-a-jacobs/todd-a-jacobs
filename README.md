@@ -7,7 +7,8 @@ Todd is also a founding member of the Theia Institute, a think tank focused on c
 Todd is intensely passionate about technology and process. He's published several books about [Scrum][3] and [agile leadership][2], and his technical articles have been featured in *SysAdmin Magazine* and *[Linux Journal][4]*. He's also a top contributor on [Stack Overflow][5] and a community moderator on [Project Management Stack Exchange][6].
 
 ## Follow Todd on Social Media
-<img src="https://joinmastodon.org/logos/logo-purple.svg" style="height: 3em;" alt="Mastodon purple logo"> &nbsp; &nbsp; [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
+<a href="https://joinmastodon.org/"><img src="https://joinmastodon.org/logos/logo-purple.svg" style="height: 3em;" alt="Mastodon purple logo"></a>
+&nbsp; &nbsp; [![Twitter][7]][9] &nbsp; &nbsp; [![LinkedIn][8]][10]
 
 ### Mastodon Servers
 - <a href="https://ruby.social/@todd_a_jacobs" style="margin-top: -2em;" rel="me">@todd_a_jacobs on ruby.social</a>
