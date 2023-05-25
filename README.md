@@ -12,7 +12,7 @@ Todd is intensely passionate about technology and process. He's published severa
 
 ### Mastodon Servers
 - <a rel="me" href="https://ruby.social/@todd_a_jacobs" style="margin-top: -2em;">@todd_a_jacobs@ruby.social</a>
-- <a rel="me" href="https://fosstodon.org/@todd_a_jacobs>@todd_a_jacobs@fosstodon.org</a>
+- <a rel="me" href="https://fosstodon.org/@todd_a_jacobs">@todd_a_jacobs@fosstodon.org</a>
 - <a rel="me" href="https://mastodon.social/@todd_a_jacobs">@todd_a_jacobs@mastodon.social</a>
 - <a rel="me" href="https://infosec.exchange/@todd_a_jacobs">@todd_a_jacobs@infosec.exchange</a>
 
