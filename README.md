@@ -1,6 +1,6 @@
 # Todd A. Jacobs
 
-Todd is the Chief Information Technology Officer (CITO) at [CodeGnome Consulting][1], a firm that leads the IT audit remediation sector. He provides strategic leadership for the company's internal initiatives and external client engagements focused on cybersecurity, DevSecOps, IT audit remediation, agile adoption, and fraction CISO services.
+Todd is the Chief Information Technology Officer (CITO) at [CodeGnome Consulting][1], a firm that leads the IT audit remediation sector. He provides strategic leadership for the company's internal initiatives and external client engagements focused on cybersecurity, DevSecOps, IT audit remediation, agile adoption, and fractional CISO services.
 
 Todd is also a founding member of the Theia Institute, a think tank focused on cybersecurity and modern business transformation in the age of AI. In addition, he teaches AI integration and programming at the Forest Academy.
 
